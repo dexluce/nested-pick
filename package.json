@@ -1,6 +1,6 @@
 {
   "name": "nested-pick",
-  "version": "1.0.0-beta.1",
+  "version": "0.0.1",
   "description": "A utility function for deeply picking properties from objects.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
