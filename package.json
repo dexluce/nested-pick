@@ -9,6 +9,14 @@
     "test": "jest",
     "prepublishOnly": "npm test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dexluce/nested-pick.git"
+  },
+  "homepage": "https://github.com/dexluce/nested-pick#readme",
+  "bugs": {
+    "url": "https://github.com/dexluce/nested-pick/issues"
+  },
   "keywords": [
     "deep",
     "pick",
